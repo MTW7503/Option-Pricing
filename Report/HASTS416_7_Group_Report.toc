@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {1}Executive Summary (Non-Technical Client Report)}{3}{section.1}%
+\contentsline {section}{\numberline {2}Technical Report: Step 1 -- Short-Maturity Asian Option (15/20 Days)}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data and Methodology}{5}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Market Data}{5}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Error Function and Optimisation}{5}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Heston Model Calibration --- Lewis (2001) Approach}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Model Description}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Calibrated Parameters}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Discussion}{6}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Heston Model Calibration --- Carr-Madan (1999) Approach}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Pricing Methodology}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Calibrated Parameters and Comparison}{8}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Asian Call Option Pricing --- Monte Carlo (Step 1c)}{9}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Instrument Specification}{10}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Pricing Methodology}{10}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Pricing Results and Convergence}{11}{subsubsection.2.4.3}%
+\contentsline {section}{\numberline {3}Technical Report: Step 2 -- Medium-Maturity Put Option (60/70 Days)}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data and Methodology}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bates Model Calibration --- Lewis (2001) Approach}{13}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Model Description}{13}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Calibrated Parameters}{14}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Discussion}{14}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Bates Model Calibration --- Carr-Madan (1999) Approach}{15}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Calibrated Parameters and Comparison}{16}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Discussion}{16}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Put Option Pricing --- Monte Carlo (Step 2f)}{17}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Instrument Specification}{17}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Monte Carlo Implementation Under Bates Dynamics}{18}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Pricing Results}{18}{subsubsection.3.4.3}%
+\contentsline {section}{\numberline {4}Technical Report: Step 3 -- Interest Rate Modelling (CIR)}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Term Structure Construction via Cubic Spline}{20}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Euribor Market Data}{20}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Cubic Spline Interpolation}{20}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}CIR (1985) Model Calibration}{20}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Model Description}{20}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Calibrated Parameters}{21}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Discussion}{21}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}CIR Monte Carlo Simulation --- 12-Month Euribor Projection}{22}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Simulation Setup}{22}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Results}{22}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Discussion and Impact on Product Pricing}{23}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}Conclusion}{24}{section.5}%
+\contentsline {section}{References}{25}{section.5}%
+\contentsline {section}{\numberline {A}Calibration Charts and Supplementary Figures}{26}{appendix.1.A}%
+\contentsline {section}{\numberline {B}Calibration Parameter Summary Tables}{33}{appendix.1.B}%
