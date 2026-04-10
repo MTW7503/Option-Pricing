@@ -1,8 +1,5 @@
 # Option Pricing — HASTS 416/7 Group Work Project 1
 
-## Group Members
-> ***Will add group members here***
-
 > **Stochastic Processes · Honours Level (Part IV)**  
 > A full options-pricing pipeline in Python: stochastic-volatility calibration, exotic option pricing, interest-rate modelling, and Monte-Carlo simulation.
 
